@@ -1,0 +1,24 @@
+[06-Dec-2018 12:18:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/template-tags.php:195
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 14:24:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/template-tags.php:195
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 23:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 05:03:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 08:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 17:26:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

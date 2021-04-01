@@ -1,0 +1,16 @@
+[26-Oct-2018 02:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 06:34:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/custom-header.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 11:49:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/customizer.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 16:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/template-tags.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

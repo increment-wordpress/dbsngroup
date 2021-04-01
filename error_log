@@ -1,0 +1,157 @@
+[18-Mar-2021 07:49:09 UTC] PHP Warning:  file_put_contents(./wp-includes/.htaccess): failed to open stream: Permission denied in /home/kennette/public_html/dbsngroup.com/mindex.php(89) : eval()'d code(1) : eval()'d code on line 452
+[18-Mar-2021 07:50:41 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 07:50:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 07:52:38 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 07:52:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 07:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 80
+[18-Mar-2021 07:52:49 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-signup.php on line 4
+[18-Mar-2021 07:52:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-signup.php on line 4
+[18-Mar-2021 07:52:52 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-includes/functions.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 98
+[18-Mar-2021 07:52:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-includes/functions.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 98
+[18-Mar-2021 07:52:59 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-includes/functions.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 98
+[18-Mar-2021 07:52:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-includes/functions.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 98
+[18-Mar-2021 07:52:59 UTC] PHP Warning:  require_once(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-links-opml.php on line 15
+[18-Mar-2021 07:52:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-links-opml.php on line 15
+[18-Mar-2021 07:53:04 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-activate.php on line 12
+[18-Mar-2021 07:53:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-activate.php on line 12
+[18-Mar-2021 07:53:12 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-mail.php on line 11
+[18-Mar-2021 07:53:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-mail.php on line 11
+[18-Mar-2021 07:53:12 UTC] PHP Warning:  require_once(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-trackback.php on line 12
+[18-Mar-2021 07:53:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-trackback.php on line 12
+[18-Mar-2021 07:53:13 UTC] PHP Warning:  require_once(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-cron.php on line 26
+[18-Mar-2021 07:53:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-cron.php on line 26
+[18-Mar-2021 07:53:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 19
+[18-Mar-2021 07:53:22 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 19
+[18-Mar-2021 07:53:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 19
+[18-Mar-2021 07:57:09 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 07:57:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 09:41:43 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 09:41:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 10:45:09 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 10:45:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 11:39:13 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 11:39:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 11:42:48 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 11:42:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 80
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:04:38 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 80
+[18-Mar-2021 12:36:09 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 12:36:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:52:54 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 12:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 80
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 13:17:56 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[18-Mar-2021 13:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 80
+[19-Mar-2021 21:50:22 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[19-Mar-2021 21:50:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 62
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 63
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[20-Mar-2021 00:36:36 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 64
+[20-Mar-2021 00:36:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 80
+[20-Mar-2021 02:24:55 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 02:24:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 06:42:43 UTC] PHP Warning:  include(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[20-Mar-2021 06:42:43 UTC] PHP Warning:  include(): Failed opening '/home/kennette/public_html/dbsngroup.com/wp-load.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 29
+[20-Mar-2021 06:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/kennette/public_html/dbsngroup.com/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/xmlrpc.php on line 32
+[20-Mar-2021 08:28:02 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 08:28:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 08:29:44 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 08:29:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 08:29:57 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-load.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 08:29:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-login.php on line 12
+[20-Mar-2021 08:34:49 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/kennette/public_html/dbsngroup.com/wp-load.php on line 2
+[20-Mar-2021 08:34:49 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/kennette/public_html/dbsngroup.com/wp-load.php on line 2
+[20-Mar-2021 08:34:49 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/kennette/public_html/dbsngroup.com/wp-load.php(2) : runtime-created function on line 1
+[20-Mar-2021 08:34:49 UTC] PHP Warning:  require(/home/kennette/public_html/dbsngroup.com/wp-includes/functions.php): failed to open stream: No such file or directory in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 98
+[20-Mar-2021 08:34:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/kennette/public_html/dbsngroup.com/wp-includes/functions.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/kennette/public_html/dbsngroup.com/wp-settings.php on line 98

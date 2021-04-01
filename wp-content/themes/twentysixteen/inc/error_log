@@ -1,0 +1,8 @@
+[31-Oct-2018 02:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentysixteen/inc/template-tags.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[04-Nov-2018 02:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentysixteen/inc/customizer.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/kennette/public_html/dbsngroup.com/wp-content/themes/twentysixteen/inc/customizer.php on line 61
